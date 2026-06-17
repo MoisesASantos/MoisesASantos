@@ -1,16 +1,24 @@
-### 👩🏻‍💻 Moisés Dos Santos
+###  Moisés Dos Santos
 
 **`Software Engineer`**
 
-👋🏽 Hi, my name is Moisés Dos Santos, I'm 24 years old and originally from Angola. I'm a Software Engineering student at 42 Luanda, part of the renowned international 42 Network, known for its innovative, hands-on, and collaborative learning methodology.
+Hello, I'm Moisés Dos Santos, a Software Engineering student at 42 Luanda, part of the third most innovative university in the world and the largest network of technology schools worldwide, known for its excellence in teaching and ethics.
 
-💻 I have experience in fullstack development, with a focus on Node.js, JavaScript, C, and C++. Throughout my journey, I’ve taken on challenging projects such as building my own shell, web server, 2D/3D games, and modern web applications.
+I have experience developing low-level projects using C and C++, focusing on systems, web servers, shells, and low-level programming. I also have knowledge of Python, Go, and TypeScript, with a greater focus on backend development and basic frontend knowledge.
+
+I have practical experience with Linux, Docker, web servers, basic system and network administration, acquired both in personal projects and technical challenges.
+
+In addition, I develop full-stack projects and constantly explore new technologies and software architectures.
+
+I am passionate about technology, software engineering, and problem-solving through code, and I am always open to new opportunities, collaborations, and challenges.
+
+Email: moiseshitalukuasantos@gmail.com
 
 
 
 ---
 
-### 🛠️ Languages & Technologies
+###  Languages & Technologies
 
 
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
