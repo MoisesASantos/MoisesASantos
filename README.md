@@ -14,7 +14,9 @@ I am passionate about technology, software engineering, and problem-solving thro
 
 Email: moiseshitalukuasantos@gmail.com
 
+### Certificate
 
+[![Boot.dev Learn Pub/Sub in RabbitMQ and Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7853ff19-2625-40aa-90b7-b4efbd961b37.jpeg?v=1784380958)](https://www.boot.dev/certificates/7853ff19-2625-40aa-90b7-b4efbd961b37)
 
 ---
 
